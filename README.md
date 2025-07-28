@@ -16,6 +16,13 @@ By the end, you’ll have a powerful mini assistant that’s grounded in your ow
 
 
 # To Run
+## Pre-requisites
+- python3 -m pip install ipykernel -U --user --force-reinstall --break-system-packages
+- python3 -m  pip install python-docx --break-system-package
+- python3 -m  pip install openai --break-system-packages
+- python3 -m  pip install requests --break-system-packages
+
+
 ## Update below Global variables in the step 2 of Jupyter Notebook
 
 - CLIENT_ID 
